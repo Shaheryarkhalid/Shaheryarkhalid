@@ -34,7 +34,7 @@ I’m a backend developer working with Golang and Python, navigating the wild wo
   Go, Python, backend architecture, debugging nightmares, or why I refuse to vibe code.
 
 - 📫 **How to reach me:**
-  [linkedin](http://linkedin.com/in/shaheryar-khalid150)
+  [Linkedin](http://linkedin.com/in/shaheryar-khalid150)
 
 ---
 
