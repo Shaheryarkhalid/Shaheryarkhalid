@@ -13,7 +13,7 @@ I’m a backend developer working with Golang and Python, navigating the wild wo
 - PostgreSQL, Sqlite  
 - Docker
 - AWS, GCP
-- Rabbit_mq, Pub Sub
+- RabbitMQ, Pub Sub
 - (Little bit of a linux nerd.)
 ---
 
