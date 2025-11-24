@@ -32,7 +32,7 @@ I’m a backend developer working with Golang and Python, navigating the wild wo
   Go, Python, backend architecture, debugging nightmares, or why I refuse to vibe code.
 
 - 📫 **How to reach me:**
-  [Linkedin](http://linkedin.com/in/shaheryar-khalid150), [Email](shaheryarkhalid.dev@gmail.com)
+  [Linkedin](http://linkedin.com/in/shaheryar-khalid150), [Email](mailto:shaheryarkhalid.dev@gmail.com)
 
 ---
 
