@@ -2,7 +2,7 @@ I’m a backend developer working with Golang and Python, navigating the wild wo
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 **Languages:**  
 - Go (Golang)  
@@ -17,21 +17,21 @@ I’m a backend developer working with Golang and Python, navigating the wild wo
 - (Little bit of a linux nerd.)
 ---
 
-## 📈 What I'm Up To
+##  What I'm Up To
 
-- 🔭 **I’m currently working on:**  
+-  **I’m currently working on:**  
   Strengthening my backend skills by building real-world Go services, auth systems, and data-heavy tools.
 
-- 🌱 **I’m currently learning:**  
+-  **I’m currently learning:**  
   Advanced Go concepts, distributed systems, concurrency patterns, and leveling up in Python for data workflow automation.
 
-- 👯 **I’m looking to collaborate on:**  
+-  **I’m looking to collaborate on:**  
   Backend-heavy projects, open-source tools, APIs, small startup ideas, or anything that lets me write more Go/Python.
 
-- 💬 **Ask me about:**  
+-  **Ask me about:**  
   Go, Python, backend architecture, debugging nightmares, or why I refuse to vibe code.
 
-- 📫 **How to reach me:**
+-  **How to reach me:**
   [Linkedin](http://linkedin.com/in/shaheryar-khalid150), [Email](mailto:shaheryarkhalid.dev@gmail.com)
 
 ---
