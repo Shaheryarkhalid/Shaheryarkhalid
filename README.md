@@ -10,7 +10,7 @@ I’m a backend developer working with Golang and Python, navigating the wild wo
 
 **Backend & Cloud:**  
 - REST APIs, Microservices, CLI's  
-- PostgreSQL, Sqlite  
+- PostgreSQL, SQLite  
 - Docker
 - CI/CD, GitHub Actions
 - AWS, GCP
