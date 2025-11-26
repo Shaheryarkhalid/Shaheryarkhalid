@@ -12,8 +12,10 @@ I’m a backend developer working with Golang and Python, navigating the wild wo
 - REST APIs, Microservices, CLI's  
 - PostgreSQL, Sqlite  
 - Docker
+- CI/CD, GitHub Actions,
 - AWS, GCP
 - RabbitMQ, Pub Sub
+- Neovim Enjoyer (BTW)
 - (Little bit of a linux nerd.)
 ---
 
