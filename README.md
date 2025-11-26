@@ -1,5 +1,6 @@
-# Hi there! Welcome to my GitHub.
-My name is shaheryar and I’m a backend developer working with Golang and Python, navigating the wild world of backend engineering with a healthy dose of debugging-induced humility. I focus on building things that actually work… most of the time.
+# Hi there! I'm Shaheryar.
+
+I’m a backend developer working with Golang and Python, navigating the wild world of backend engineering with a healthy dose of debugging-induced humility. I focus on building things that actually work… most of the time.
 
 ---
 
