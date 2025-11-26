@@ -16,7 +16,7 @@ I’m a backend developer working with Golang and Python, navigating the wild wo
 - AWS, GCP
 - RabbitMQ, Pub Sub
 - Neovim Enjoyer (BTW)
-- (Little bit of a linux nerd.)
+- (Little bit of a linux nerd)
 ---
 
 ##  What I'm Up To
